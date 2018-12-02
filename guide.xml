@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ESPN Brasil">
+    <display-name lang="pt">ESPN Brasil</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20181202000000 -0400" stop="20181202013000 -0400" channel="ESPN Brasil">
+    <title lang="pt">Bola da Vez: Diego, Meia do Flamengo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181202013000 -0400" stop="20181202033000 -0400" channel="ESPN Brasil">
+    <title lang="pt">Real Madrid x Valencia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181202033000 -0400" stop="20181202043000 -0400" channel="ESPN Brasil">
+    <title lang="pt">ESPN Especial: 11 Corações, Recomeçando a Viver</title>
+    <sub-title lang="pt">Parte 2</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181202043000 -0400" stop="20181202053000 -0400" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181202053000 -0400" stop="20181202073000 -0400" channel="ESPN Brasil">
+    <title lang="pt">Manchester City x Bournemouth</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181202073000 -0400" stop="20181202093000 -0400" channel="ESPN Brasil">
+    <title lang="pt">Southampton x Manchester United</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181202093000 -0400" stop="20181202095000 -0400" channel="ESPN Brasil">
+    <title lang="pt">Abre o Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181202095000 -0400" stop="20181202115500 -0400" channel="ESPN Brasil">
+    <title lang="pt">Chelsea x Fulham</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181202115500 -0400" stop="20181202140000 -0400" channel="ESPN Brasil">
+    <title lang="pt">Arsenal x Tottenham</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181202140000 -0400" stop="20181202161500 -0400" channel="ESPN Brasil">
+    <title lang="pt">Liverpool x Everton</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181202161500 -0400" stop="20181202170000 -0400" channel="ESPN Brasil">
+    <title lang="pt">Futebol Na Veia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181202170000 -0400" stop="20181202185000 -0400" channel="ESPN Brasil">
+    <title lang="pt">Manchester City x Bournemouth</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181202185000 -0400" stop="20181202210000 -0400" channel="ESPN Brasil">
+    <title lang="pt">Futebol Na Veia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181202210000 -0400" stop="20181202230000 -0400" channel="ESPN Brasil">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181202230000 -0400" stop="20181203000000 -0400" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
